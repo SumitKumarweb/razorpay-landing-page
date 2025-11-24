@@ -10,7 +10,7 @@ This project is a clone of the Razorpay landing page, built with modern web tech
 ![features3 Page Screenshot](./Website-screenshot/features3.png)
 ![features4 Page Screenshot](./Website-screenshot/features4.png)
 ![Global Page Screenshot](./Website-screenshot/gloabl.png)
-![why page screenshot](./Website-screenshot/why.png)
+![why page screenshot](./Website-screenshot/whypage.png)
 ![trust page screenshot](./Website-screenshot/trust.png)
 ![Testimonial page screenshot](./Website-screenshot/testimonial.png)
 ![join now page screenshot](./Website-screenshot/joinnow.png)
